@@ -1,4 +1,15 @@
-/* assets/styles/main.css */
-body {
-  font-family: Arial, sans-serif;
+/* Dark theme styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Example override */
+.subscribe-button {
+  background-color: #444;
+  color: #eee;
+}
+
+.subscribe-button:hover {
+  background-color: #666;
 }
