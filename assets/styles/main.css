@@ -1,14 +1,12 @@
 /* Subscribe button styles */
 .subscribe-button {
-  background-color: #28a745; /* green */
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+  background: blue;
+  padding: 10px;
+  /* other styles */
 }
 
-.subscribe-button:hover {
-  background-color: #218838; /* darker green */
+/* Dark theme overrides */
+body {
+  background-color: #121212;
+  color: #eee;
 }
