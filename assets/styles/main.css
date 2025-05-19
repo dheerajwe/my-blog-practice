@@ -10,3 +10,6 @@ body {
   background-color: #121212;
   color: #eee;
 }
+header {
+  margin-top: 10px;
+}
