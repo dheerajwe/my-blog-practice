@@ -1,15 +1,12 @@
-/* Dark theme styles */
-body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-
-/* Example override */
+/* Subscribe button styles */
 .subscribe-button {
-  background-color: #444;
-  color: #eee;
+  background: blue;
+  padding: 10px;
+  /* other styles */
 }
 
-.subscribe-button:hover {
-  background-color: #666;
+/* Dark theme overrides */
+body {
+  background-color: #121212;
+  color: #eee;
 }
