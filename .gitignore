@@ -1,0 +1,13 @@
+# System files to ignore
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build folders or files
+dist/
+build/
+
+# Node modules (if you have any)
+node_modules/
